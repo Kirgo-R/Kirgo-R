@@ -1,16 +1,3 @@
-
-[//]: # (<div style="padding: 0; margin: 0; top: 0; left: 0; background-color: rgba&#40;9, 3, 75&#41;; width: 100%; height: 240px; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative">)
-
-[//]: # (    <img alt="bg-cover" src="./_1416bd29-d279-4781-a8c7-41513367c51b.jpeg" style="width: 100%; height: 240px; object-fit: cover; position: absolute; opacity: .8">)
-
-[//]: # (    <img alt="avatar" src="_bad7445c-2d0d-4c01-872c-3181de2dbcc1.jpeg" style="border-radius: 50%; width: 120px; height: 120px; position: absolute; bottom: -40px; right: 90px;">)
-
-[//]: # (    <h1 style="text-align: center; font-weight: 600; color: lightblue; margin: 0;">HELLO, WORLD!</h1>)
-
-[//]: # (    <h3 style="text-align: center; color: lightblue; margin: 0; font-size: 16px; font-weight: 300">Меня зовут Кирилл. Я frontend-разработчик</h3>)
-
-[//]: # (</div>)
-
 ![Обложка профиля](cover-profile.png)
 
 ##### 💁🏻‍♂️ О себе:
